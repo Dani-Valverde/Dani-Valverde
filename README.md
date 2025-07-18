@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniela Valverde Allen</h1>
+<h1 align="center">Hi there👋, I'm Daniela Valverde Allen</h1>
 <h3 align="center">I'm new to this world. I'm still learning!</h3>
 
 - 🌱 I’m currently learning: **Data analysis, Statistics and Python.**
